@@ -10,3 +10,5 @@ tp2 : http://nbviewer.ipython.org/urls/raw.github.com/elsuizo/Control_de_robots_
 tp3 : http://nbviewer.ipython.org/urls/raw.github.com/elsuizo/Control_de_robots_py/master/tp3.ipynb
 
 tp4 : http://nbviewer.ipython.org/urls/raw.github.com/elsuizo/Control_de_robots_py/master/tp4.ipynb
+
+tp5 : http://nbviewer.ipython.org/urls/raw.github.com/elsuizo/Control_de_robots_py/master/tp5.ipynb
